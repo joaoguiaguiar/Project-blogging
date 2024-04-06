@@ -1,5 +1,3 @@
-
-
 .container__menu {
     display: flex;
     align-items: center;
@@ -74,7 +72,7 @@ h1 i {
     }
     .planoDeFundo{
         background: linear-gradient(to bottom, #3d2139aa, #ffffff04);
-        overflow-x: hidden;
+       overflow: hidden
     }
 
     .rodape__menu__desk{
