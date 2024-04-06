@@ -1,0 +1,39 @@
+h2 {
+    color: #343a40;
+}
+article {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+h3 {
+    color: #343a40;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+ul {
+    color: #343a40;
+}
+a {
+    color: #007bff;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+
+.container__noticia{
+    background-color: #222831;
+    padding: 1rem;
+}
+
+.titulo__ultimasNoticias{
+    color: white;
+    text-align: center;
+}

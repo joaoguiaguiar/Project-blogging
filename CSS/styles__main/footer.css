@@ -1,0 +1,13 @@
+.rodape{
+    background-color: rgba(0, 0, 0, 0.852);
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+.redes-sociais{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    justify-content: center;
+}

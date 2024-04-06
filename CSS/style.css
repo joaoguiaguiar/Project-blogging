@@ -1,0 +1,12 @@
+@import url('./styles__pagesLoguin/menu.css');
+
+:root {
+    --preto: black;
+    --branco: white;
+}
+
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}

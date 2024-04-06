@@ -1,0 +1,41 @@
+@import url('./noticias.css');
+@import url('./newletter.css');
+@import url('./footer.css');
+
+body {
+height: 100vh;
+
+}
+
+.navbar-brand {
+    color: black;
+    font-weight: bold;
+}
+.navbar-brand:hover {
+    color: #ffc107;
+}
+
+.nav-link {
+    color: black;
+    font-weight: bold;
+}
+.nav-link:hover {
+    color: #ffc107;
+}
+.section1 {
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+
+.p__section1{
+    font-size: 20px;
+    font-weight: bolder;
+    text-shadow: 2px 2px 5px #0000008b;
+}
+
+
+
+
